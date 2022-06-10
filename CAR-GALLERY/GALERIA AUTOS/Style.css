@@ -1,0 +1,69 @@
+body
+{
+   
+    width: 800px;
+    height: 2450px;
+    margin: auto;
+    background-color: rgb(47, 228, 89);
+    border-top: 10px solid black;
+    border-bottom: 10px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+}
+
+.foto
+{
+    width: 150px;
+    height: 200px;
+    margin: 10px;
+}
+.Parte1
+{
+    background-color: rgb(37, 206, 60);
+    width: 800px;
+    height: 375px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+.Texto1
+{
+    background-color: white;
+    width: 180px;
+    height: 45px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+   
+
+}
+.Parte2
+{
+    background-color: rgb(245, 254, 248);
+    width: 800px;
+    height: 270px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+       
+
+}
+
+
+    
+
+
+
+
+
+
+
+
+
+
